@@ -75,15 +75,38 @@ public class App {
                             Document specimenDoc = Jsoup.connect("https://amo.ala.org.au/"
                                     + speciesUrl).timeout(10000).validateTLSCertificates(false).get();
                             Elements specimenItems = specimenDoc.select(".giItemCell");
+                            Elements albumItems = specimenDoc.select(".giAlbumCell");
 
                             if (specimenItems.size() > 0) {
+                                // we're on a page with individual species/specimen items
                                 for (Element specimenItem : specimenItems) {
                                     String specimenDescription = specimenItem.select(".giDescription2").html();
                                     String specimenImgUrl = specimenItem.select("img").attr("src");
                                     String specimenImgFilename = specimenItem.select("img").attr("alt");
                                     String itemId = (specimenImgUrl.length() > 50) ? StringUtils.remove(specimenImgUrl.substring(45, 50), "_") : "";
-                                    System.out.println("    " + ++count + ". " + itemId + " | " + specimenImgFilename + " | " + specimenImgUrl +" | " + specimenDescription );
+                                    System.out.println("      " + ++count + ". " + itemId + " | " + specimenImgFilename + " | " + specimenImgUrl + " | " + specimenDescription);
                                     //csvPrinter.printRecord("1", "Sundar Pichai ♥", "CEO", "Google");
+                                }
+                            } else if (albumItems.size() > 0) {
+                                // we're on a page with sub-albums (its a subfamily) so need to go one level deeper
+                                for (Element albumItem : albumItems) {
+                                    String itemTitle = albumItem.select("img").attr("alt");
+                                    String itemUrl = albumItem.select("a").attr("href");
+                                    String itemId = (itemUrl.length() > 20) ? StringUtils.remove(itemUrl.substring(15, 20), "_") : "";
+
+                                    if (StringUtils.isNotEmpty(itemId)) {
+                                        System.out.println("    " + ++count + ": " + itemTitle + " | " + itemUrl + " | " + itemId);
+
+                                        Document itemDoc = Jsoup.connect("https://amo.ala.org.au/"
+                                                + speciesUrl).timeout(10000).validateTLSCertificates(false).get();
+                                        Elements itemCells = itemDoc.select(".giItemCell");
+
+                                        for (Element itemCell : itemCells) {
+                                            String itemTitle2 = itemCell.select("img").attr("alt");
+                                            String itemUrl2 = itemCell.select("a").attr("href");
+                                            String itemId2 = (itemUrl2.length() > 20) ? StringUtils.remove(itemUrl2.substring(15, 20), "_") : "";
+                                        }
+                                    }
                                 }
                             } else {
                                 // withHeader("itemId", "family", "scientificName", "fileName", "imageThumbnailUrl")
@@ -101,6 +124,10 @@ public class App {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+    }
+
+    private void processAlbumList(Elements albumList) throws IOException {
 
     }
 
