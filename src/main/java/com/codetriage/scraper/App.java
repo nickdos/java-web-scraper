@@ -20,115 +20,95 @@ import org.jsoup.select.Elements;
  */
 public class App {
 
+    public static final String AMO_BASE_URL = "https://amo.ala.org.au/";
+    public static final String SEP = " | ";
+    public static int count = 0;  // counter - needs to be global so recursive function doesn't reset it
+
     /**
      * The main method of our class, which will also house the scraping
      * functionality.
      */
     public static void main(String[] args) {
         String OUTPUT_CSV_FILE = "./amo_data.csv";
+        App instance = new App();
 
         try (
+                // setup the CSV writer with header row
                 BufferedWriter writer = Files.newBufferedWriter(Paths.get(OUTPUT_CSV_FILE));
                 CSVPrinter csvPrinter = new CSVPrinter(writer, CSVFormat.DEFAULT
-                        .withHeader("itemId", "family", "scientificName", "fileName", "imageThumbnailUrl"));
+                        .withHeader("itemId", "family", "scientificName", "fileName", "imageThumbnailUrl", "description"));
         ) {
-            /**
-             * Here we create a document object,
-             * The we use JSoup to fetch the website.
-             */
-            Document doc = Jsoup.connect("https://amo.ala.org.au/main.php").timeout(10000).validateTLSCertificates(false).get();
 
-            /**
-             * With the document fetched,
-             * we use JSoup???s title() method to fetch the title
-             */
+            Document doc = Jsoup.connect(AMO_BASE_URL + "main.php").timeout(10000).validateTLSCertificates(false).get();
             System.out.printf("\nWebsite Title: %s\n\n", doc.title());
+            instance.processAlbumDoc(doc, csvPrinter, "", ""); // recursive
 
-
-            // Get the list of repositories
-            String giAlbumSelector = ".giAlbumCell div";
-            Elements albums = doc.select(giAlbumSelector);
-            int count = 0;
-
-            /**
-             * Iterate over album divs and then scrape each album page for species pages
-             */
-            for (Element album : albums) {
-                String albumTitle = album.select("img").attr("alt");
-                String albumUrl = album.select("a").attr("href");
-
-                if (StringUtils.isNotEmpty(albumTitle) && StringUtils.isNotEmpty(albumUrl)) {
-                    System.out.println(++count + ". " + albumTitle + " - " + albumUrl);
-
-                    Document speciesDoc = Jsoup.connect("https://amo.ala.org.au/"
-                            + albumUrl).timeout(10000).validateTLSCertificates(false).get();
-                    Elements speciesPages = speciesDoc.select(giAlbumSelector);
-
-                    for (Element speciesPage : speciesPages) {
-                        String speciesTitle = speciesPage.select("img").attr("alt");
-                        String speciesUrl = speciesPage.select("a").attr("href");
-                        String speciesId = (speciesUrl.length() > 20) ? StringUtils.remove(speciesUrl.substring(15, 20), "_") : "";
-
-                        if (StringUtils.isNotEmpty(speciesTitle) && StringUtils.isNotEmpty(speciesUrl) && StringUtils.isNotEmpty(speciesId)) {
-                            System.out.println("  " + ++count + ". " + speciesTitle + " - " + speciesUrl);
-
-                            Document specimenDoc = Jsoup.connect("https://amo.ala.org.au/"
-                                    + speciesUrl).timeout(10000).validateTLSCertificates(false).get();
-                            Elements specimenItems = specimenDoc.select(".giItemCell");
-                            Elements albumItems = specimenDoc.select(".giAlbumCell");
-
-                            if (specimenItems.size() > 0) {
-                                // we're on a page with individual species/specimen items
-                                for (Element specimenItem : specimenItems) {
-                                    String specimenDescription = specimenItem.select(".giDescription2").html();
-                                    String specimenImgUrl = specimenItem.select("img").attr("src");
-                                    String specimenImgFilename = specimenItem.select("img").attr("alt");
-                                    String itemId = (specimenImgUrl.length() > 50) ? StringUtils.remove(specimenImgUrl.substring(45, 50), "_") : "";
-                                    System.out.println("      " + ++count + ". " + itemId + " | " + specimenImgFilename + " | " + specimenImgUrl + " | " + specimenDescription);
-                                    //csvPrinter.printRecord("1", "Sundar Pichai ♥", "CEO", "Google");
-                                }
-                            } else if (albumItems.size() > 0) {
-                                // we're on a page with sub-albums (its a subfamily) so need to go one level deeper
-                                for (Element albumItem : albumItems) {
-                                    String itemTitle = albumItem.select("img").attr("alt");
-                                    String itemUrl = albumItem.select("a").attr("href");
-                                    String itemId = (itemUrl.length() > 20) ? StringUtils.remove(itemUrl.substring(15, 20), "_") : "";
-
-                                    if (StringUtils.isNotEmpty(itemId)) {
-                                        System.out.println("    " + ++count + ": " + itemTitle + " | " + itemUrl + " | " + itemId);
-
-                                        Document itemDoc = Jsoup.connect("https://amo.ala.org.au/"
-                                                + speciesUrl).timeout(10000).validateTLSCertificates(false).get();
-                                        Elements itemCells = itemDoc.select(".giItemCell");
-
-                                        for (Element itemCell : itemCells) {
-                                            String itemTitle2 = itemCell.select("img").attr("alt");
-                                            String itemUrl2 = itemCell.select("a").attr("href");
-                                            String itemId2 = (itemUrl2.length() > 20) ? StringUtils.remove(itemUrl2.substring(15, 20), "_") : "";
-                                        }
-                                    }
-                                }
-                            } else {
-                                // withHeader("itemId", "family", "scientificName", "fileName", "imageThumbnailUrl")
-                                csvPrinter.printRecord(speciesId, "Sundar Pichai ♥", "CEO", "Google");
-                            }
-                        }
-                    }
-                }
-            }
-
-            /**
-             * Incase of any IO errors, we want the messages
-             * written to the console
-             */
         } catch (IOException e) {
             e.printStackTrace();
         }
 
     }
 
-    private void processAlbumList(Elements albumList) throws IOException {
+    /**
+     * Recursive method to process a JSoup Document
+     *
+     * @param doc
+     * @param csvPrinter
+     * @param parent
+     * @param title
+     * @throws IOException
+     */
+    private void processAlbumDoc(Document doc, CSVPrinter csvPrinter, String parent, String title) throws IOException {
+        // one of the following selector will be populated, depending on the page type (album or items/photos)
+        Elements albums = doc.select(".giAlbumCell div"); // album page
+        Elements items = doc.select(".giItemCell");       // items page
 
+        if (albums.size() > 0) {
+            // we're on a page with sub-albums (e.g. family or subfamily) so need to go one level deeper
+            for (Element album : albums) {
+                String albumTitle = album.select("img").attr("alt");
+                String albumThumbnailUrl = album.select("img").attr("src");
+                String albumUrl = album.select("a").attr("href");
+                // extract the album ID from the item-page URL using substring
+                String albumId = (albumUrl.length() > 20) ? StringUtils.remove(albumUrl.substring(15, 20), "_") : "";
+
+                if (StringUtils.isNotEmpty(albumTitle) && StringUtils.isNotEmpty(albumUrl)) {
+                    System.out.println( count++ + ". " + albumTitle + SEP + albumUrl + SEP + albumId + SEP + title);
+                    Document subAlbumDoc = Jsoup.connect(AMO_BASE_URL + albumUrl).timeout(10000).validateTLSCertificates(false).get();
+                    String pageTitle = subAlbumDoc.title();
+
+                    if (!StringUtils.contains(pageTitle, "Australian Moths Online")) {
+                        processAlbumDoc(subAlbumDoc, csvPrinter, parent + "|" + albumTitle, pageTitle);
+                    } else {
+                        System.out.println("Requested page (" + AMO_BASE_URL + albumUrl + ") has redirected to AMO home");
+                        csvPrinter.printRecord(albumId, parent, albumTitle, "missing", albumThumbnailUrl, "missing");
+                    }
+                } else {
+                    //System.out.println("No album link or title found - " + albumTitle + SEP + albumUrl);
+                }
+
+            }
+        } else if (items.size() > 0) {
+            // we're on a page with album items (photos) on it
+
+            for (Element item : items) {
+                String specimenDescription = item.select(".giDescription2").html();
+                String specimenImgUrl = item.select("img").attr("src");
+                String specimenImgFilename = item.select("img").attr("alt");
+                // extract the item ID from the item-page URL using substring
+                String itemId = (specimenImgUrl.length() > 50) ? StringUtils.remove(specimenImgUrl.substring(45, 50), "_") : "";
+
+                if (StringUtils.isNotEmpty(specimenDescription) && StringUtils.isNotEmpty(specimenImgUrl)) {
+                    System.out.println("  " + count++ + ". " + parent + SEP + itemId + SEP + specimenImgFilename + SEP + specimenImgUrl + SEP + specimenDescription);
+                    // withHeader("itemId", "family", "scientificName", "fileName", "imageThumbnailUrl"));
+                    csvPrinter.printRecord(itemId, parent, title, specimenImgFilename, specimenImgUrl, specimenDescription);
+                } else {
+                    //System.out.println("No item link or title found - " + specimenImgUrl + SEP + specimenDescription);
+                }
+            }
+        }
+
+        csvPrinter.flush();
     }
 
 }
