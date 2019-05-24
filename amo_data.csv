@@ -117,9 +117,9 @@ itemId,family,scientificName,fileName,imageThumbnailUrl,description
 10622,|Brachodidae|Synechodes coniophora,Synechodes coniophora,synechodes_coniophora_02.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_10622_g2_serialNumber_2.jpeg,"<i>Synechodes coniophora</i> Turner, 1913 (Brachodidae: Brachodinae), Male - QLD, Kuranda, 1. Mar. 1914, F.P. Dodd <i>leg</i>. (ANIC)."
 10641,|Bucculatricidae|Bucculatrix gossypii,Bucculatrix gossypii,bucculatrix_gossypii_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_10641_g2_serialNumber_2.jpeg,"<i>Bucculatrix gossypii</i> Turner, 1926 (Bucculatricidae), Male - Qld, Rockhampton, 30. Jan. 1924, A.J. Turner <i>leg</i>. (ANIC)."
 10654,|Bucculatricidae|Bucculatrix ulocarena,Bucculatrix ulocarena,bucculatrix_ulocarena_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_10654_g2_serialNumber_2.jpeg,"<i>Bucculatrix ulocarena</i> Turner, 1923 (Bucculatricidae), Male - Qld, Yeppoon, 29. Oct. 1924, A.J. Turner <i>leg</i>. (ANIC)."
-10666,|Bucculatricidae|Ogmograptis ,Ogmograptis,ogmograptis_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_10666_g2_serialNumber_2.jpeg,"<i>Ogmograptis </i> (Bucculatricidae) - NSW, Gymea, L.S. Willan <i>leg</i>. . Scribble mine in bark of Eucalyptus"
-10670,|Bucculatricidae|Ogmograptis ,Ogmograptis,ogmograptis_02.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_10670_g2_serialNumber_2.jpeg,"<i>Ogmograptis </i> (Bucculatricidae) - ACT, Black Mt, M. Horak <i>leg</i>. . Shed bark"
-10673,|Bucculatricidae|Ogmograptis ,Ogmograptis,ogmograptis_03.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_10673_g2_serialNumber_2.jpeg,"<i>Ogmograptis </i> (Bucculatricidae) - ACT, Black Mt, M. Horak <i>leg</i>. . Cocoon and protruded pupal shell"
+10666,"|Bucculatricidae|Ogmograptis ",Ogmograptis,ogmograptis_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_10666_g2_serialNumber_2.jpeg,"<i>Ogmograptis </i> (Bucculatricidae) - NSW, Gymea, L.S. Willan <i>leg</i>. . Scribble mine in bark of Eucalyptus"
+10670,"|Bucculatricidae|Ogmograptis ",Ogmograptis,ogmograptis_02.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_10670_g2_serialNumber_2.jpeg,"<i>Ogmograptis </i> (Bucculatricidae) - ACT, Black Mt, M. Horak <i>leg</i>. . Shed bark"
+10673,"|Bucculatricidae|Ogmograptis ",Ogmograptis,ogmograptis_03.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_10673_g2_serialNumber_2.jpeg,"<i>Ogmograptis </i> (Bucculatricidae) - ACT, Black Mt, M. Horak <i>leg</i>. . Cocoon and protruded pupal shell"
 10684,|Bucculatricidae|Ogmograptis scribula,Ogmograptis scribula,ogmograptis_scribula_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_10684_g2_serialNumber_2.jpeg,"<i>Ogmograptis scribula</i> Meyrick, 1935 (Bucculatricidae), Female - ACT, Lees Spring, 18. Feb. 1958, I.F.B. Common <i>leg</i>. (ANIC). Scribbly Gum Moth from Eucalyptus pauciflora"
 10704,|Carthaeidae|Carthaea saturnioides,Carthaea saturnioides,carthaea_saturnioides_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_10704_g2_serialNumber_2.jpeg,"<i>Carthaea saturnioides</i> Walker, 1858 (Carthaeidae), Male - WA, Foot of Mt Ragged, Cape Arid National Park, Lat. 33' 27""S Long. 123' 28""E, 30. Oct. 2003, A. Zwick <i>leg</i>. (ANIC)."
 10709,|Carthaeidae|Carthaea saturnioides,Carthaea saturnioides,carthaea_saturnioides_02.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_10709_g2_serialNumber_2.jpeg,"<i>Carthaea saturnioides</i> Walker, 1858 (Carthaeidae), Male - WA, Foot of Mt Ragged, Cape Arid National Park, Lat. 33' 27""S Long. 123'.28""E, 30. Oct. 2003, A. Zwick <i>leg</i>. (ANIC). Underside"
@@ -203,14 +203,14 @@ itemId,family,scientificName,fileName,imageThumbnailUrl,description
 35957,|Cossidae|Brevicyttara cyclospila,Brevicyttara cyclospila,BREVICYTTARA cyclospila (Turner 1945) Male Anketels Road Oakford,main.php_g2_view_core.DownloadItem_g2_itemId_35957_g2_serialNumber_3.jpeg,"WA Anketels Road Oakford <br> Lat 32,13S Long 115,54E, <br> 28 January 1993<br> Unattributed to Sub Family<br> ED Edwards ES Nielsen<br> Male"
 35965,|Cossidae|Catoxophylla cyanauges,Catoxophylla cyanauges,CATOXOPHYLLA  cyanauges Turner 1945 Male  Toodyay WA HOLOTYPE,main.php_g2_view_core.DownloadItem_g2_itemId_35965_g2_serialNumber_3.jpeg,"WA Male HOLOTYPE, Toodyay WA, August 1923"
 35961,|Cossidae|Catoxophylla cyanauges,Catoxophylla cyanauges,CATOXOPHYLLA cyanauges Turner 1945 Female 91mi on Albany Highway,main.php_g2_view_core.DownloadItem_g2_itemId_35961_g2_serialNumber_3.jpeg,WA 91mi on Albany Highway <br> 5 September 1963<br> P Turley<br> Female
-35980,|Cossidae|Charmoses dumigani,Charmoses dumigani,CHARMOSES  dumigani Turner 1932 Male  Mt Kaputar NSW ,main.php_g2_view_core.DownloadItem_g2_itemId_35980_g2_serialNumber_3.jpeg,"NSW 10,5 km W of Mt Kaputar 511m,<br> 6 December 1974<br> IFB Common &amp; ED Edwards<br> Unattributed to Sub Family<br> Illustrated in Moths of Australia"
-35975,|Cossidae|Charmoses dumigani,Charmoses dumigani,CHARMOSES dumigani Turner 1932 Female Toowoomba Qld ,main.php_g2_view_core.DownloadItem_g2_itemId_35975_g2_serialNumber_3.jpeg,"Qld Toowoomba <br> 3 October 1930,<br> WB Barnard<br> Unattributed to Sub Family<br> Female<br> <br>"
+35980,|Cossidae|Charmoses dumigani,Charmoses dumigani,"CHARMOSES  dumigani Turner 1932 Male  Mt Kaputar NSW ",main.php_g2_view_core.DownloadItem_g2_itemId_35980_g2_serialNumber_3.jpeg,"NSW 10,5 km W of Mt Kaputar 511m,<br> 6 December 1974<br> IFB Common &amp; ED Edwards<br> Unattributed to Sub Family<br> Illustrated in Moths of Australia"
+35975,|Cossidae|Charmoses dumigani,Charmoses dumigani,"CHARMOSES dumigani Turner 1932 Female Toowoomba Qld ",main.php_g2_view_core.DownloadItem_g2_itemId_35975_g2_serialNumber_3.jpeg,"Qld Toowoomba <br> 3 October 1930,<br> WB Barnard<br> Unattributed to Sub Family<br> Female<br> <br>"
 11331,|Cossidae|Cossodes lyonetii,Cossodes lyonetii,cossodes_lyonetii_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_11331_g2_serialNumber_2.jpeg,"<i>Cossodes lyonetii</i> White, 1841 (Cossidae: Cossinae), Female - WA, Albany, 20. Jan. 1993, E.D. Edwards <i>leg</i>. (ANIC)."
 35986,|Cossidae|Cossodes lyonetii,Cossodes lyonetii,"COSSODES  lyonetii White, 1841 Male, Hooper Road Albany WA",main.php_g2_view_core.DownloadItem_g2_itemId_35986_g2_serialNumber_3.jpeg,"WA Hooper Road Albany<br> Lat 34,58S Long117,55E,<br> 18 January 1993<br> ED Edwards<br> Male"
 35990,|Cossidae|Cossodes lyonetii,Cossodes lyonetii,COSSODES lyonetii White 1841 Female Hooper Road Albany WA,main.php_g2_view_core.DownloadItem_g2_itemId_35990_g2_serialNumber_3.jpeg,"WA Hooper Road Albany<br> Lat 34,58S Long117,55E,<br> 18 January 1993<br> ED Edwards<br> Female"
 35996,|Cossidae|Culama australis,Culama australis,CULAMA australis Walker 1856 Female Temora State Forest NSW,main.php_g2_view_core.DownloadItem_g2_itemId_35996_g2_serialNumber_3.jpeg,"NSW Temora State Forest 9 km W of Temora <br> Lat 34,27S Long147,26E, <br> 27 March 1987<br> ED Edwards &amp; B Hacobian<br> Female"
 36001,|Cossidae|Culama australis,Culama australis,"CULAMA australis Walker 1856 Male, Jervis Bay NSW",main.php_g2_view_core.DownloadItem_g2_itemId_36001_g2_serialNumber_3.jpeg,NSW Jervis Bay<br> 7 November 1956<br> IFB Common<br> Male
-36007,|Cossidae|Culama crepera,Culama crepera,CULAMA crepera Turner 1939 Female HOLOTYPE Coorow WA ,main.php_g2_view_core.DownloadItem_g2_itemId_36007_g2_serialNumber_2.jpeg,WA Coorow <br> 15 October 1938
+36007,|Cossidae|Culama crepera,Culama crepera,"CULAMA crepera Turner 1939 Female HOLOTYPE Coorow WA ",main.php_g2_view_core.DownloadItem_g2_itemId_36007_g2_serialNumber_2.jpeg,WA Coorow <br> 15 October 1938
 36012,|Cossidae|Culama crepera,Culama crepera,CULAMA crepera Turner Coorow WA Female Holotype,main.php_g2_view_core.DownloadItem_g2_itemId_36012_g2_serialNumber_3.jpeg,WA Coorow <br> 15 October 1938<br> Female<br> HOLOTYPE
 36016,|Cossidae|Culama crepera,Culama crepera,"CULAMA crepera Turner, 1939 Male 17 km W of Coolgardie WA",main.php_g2_view_core.DownloadItem_g2_itemId_36016_g2_serialNumber_3.jpeg,"WA 17 km W of Coolgardie <br> Lat 30,59S Long 121,00E,<br> 16 March 1996<br> ED Edwards &amp; ES Nielsen<br> Male"
 36022,|Cossidae|Culama dasythrix,Culama dasythrix,"CULAMA  dasythrix Turner 1945 Male, Stokes Inlet WA",main.php_g2_view_core.DownloadItem_g2_itemId_36022_g2_serialNumber_3.jpeg,"WA Stokes Inlet <br> Lat 33,48S Long 121,11E,<br> 14 April 1983<br> ES Nielsen &amp; ED Edwards<br> Male"
@@ -550,7 +550,7 @@ itemId,family,scientificName,fileName,imageThumbnailUrl,description
 18644,|Hepialidae|Abantiades hyalinatus,Abantiades hyalinatus,abantiades_hyalinatus_04.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_18644_g2_serialNumber_2.jpeg,"<i>Abantiades hyalinatus</i> (Herrich-Schaffer, [1853]) (Hepialidae: Hepialidae), Female - VIC, Moe, 13. Dec. 1931, C.G.L. Gooding <i>leg</i>. (ANIC)."
 18647,|Hepialidae|Abantiades hyalinatus,Abantiades hyalinatus,abantiades_hyalinatus_05.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_18647_g2_serialNumber_2.jpeg,"<i>Abantiades hyalinatus</i> (Herrich-Schaffer, [1853]) (Hepialidae: Hepialidae), Male - VIC, Rokeby, 1. Mar. 1975, E. E. <i>leg</i>. (ANIC)."
 36818,|Hepialidae|Abantiades hyalinatus,Abantiades hyalinatus,Abantiades hyalinatus (Herrich-Schaffer [1853]) NSW Crescent Hea,main.php_g2_view_core.DownloadItem_g2_itemId_36818_g2_serialNumber_2.jpeg,NSW 3 miles South of Crescent Head<br> 27 March 1965<br> IFB Common<br> MS Upton<br> Female
-36821,|Hepialidae|Abantiades hyalinatus,Abantiades hyalinatus,Abantiades hyalinatus (Herrich-Schaffer [1853]) Vic Moe Female ,main.php_g2_view_core.DownloadItem_g2_itemId_36821_g2_serialNumber_2.jpeg,"VIC, Moe, 29 Febuary 1925, C.G.L. Gooding leg. (ANIC). Female -<br> <br>"
+36821,|Hepialidae|Abantiades hyalinatus,Abantiades hyalinatus,"Abantiades hyalinatus (Herrich-Schaffer [1853]) Vic Moe Female ",main.php_g2_view_core.DownloadItem_g2_itemId_36821_g2_serialNumber_2.jpeg,"VIC, Moe, 29 Febuary 1925, C.G.L. Gooding leg. (ANIC). Female -<br> <br>"
 36803,|Hepialidae|Abantiades hyalinatus,Abantiades hyalinatus,"ABANTIADES hyalinatus (Herrich-Schaffer, [1853])(Epiolus)",main.php_g2_view_core.DownloadItem_g2_itemId_36803_g2_serialNumber_2.jpeg,NSW Bundanoon<br> 15 Febuary 1964<br> VJ Robinson<br> ANIC Collection
 36812,|Hepialidae|Abantiades hyalinatus,Abantiades hyalinatus,"ABANTIADES hyalinatus (Herrich-Schaffer, [1853])(Epiolus)",main.php_g2_view_core.DownloadItem_g2_itemId_36812_g2_serialNumber_2.jpeg,Vic Moe <br> 13 December 1931CGL Gooding <br> ANIC Collection
 36815,|Hepialidae|Abantiades hyalinatus,Abantiades hyalinatus,"ABANTIADES hyalinatus (Herrich-Schaffer, [1853])(Epiolus)",main.php_g2_view_core.DownloadItem_g2_itemId_36815_g2_serialNumber_2.jpeg,Vic Rockerby <br> March 1975 CGL Gooding<br> ANIC Collection
@@ -793,185 +793,185 @@ itemId,family,scientificName,fileName,imageThumbnailUrl,description
 22085,|Micropterigidae|Sabatinca calliplaca,Sabatinca calliplaca,sabatinca_calliplaca_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_22085_g2_serialNumber_2.jpeg,"<i>Sabatinca calliplaca</i> (Meyrick, 1902) (Micropterigidae), Male - Qld, Byfield Lat. 22' 52'' Long. 150' 39'', 9. Sep. 1980, I.F.B. Common <i>leg</i>. (ANIC)."
 22090,|Micropterigidae|Sabatinca calliplaca,Sabatinca calliplaca,sabatinca_calliplaca_02.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_22090_g2_serialNumber_2.jpeg,"<i>Sabatinca calliplaca</i> (Meyrick, 1902) (Micropterigidae), Male - Qld, Montville, 6. Nov. 1912, A.J. Turner <i>leg</i>. (ANIC)."
 22100,|Micropterigidae|Sabatinca porphyrodes,Sabatinca porphyrodes,sabatinca_porphyrodes_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_22100_g2_serialNumber_2.jpeg,"<i>Sabatinca porphyrodes</i> Turner,1932 (Micropterigidae), Male - Qld, Ravenshoe, 28. Sep. 1930, A.J. Turner <i>leg</i>. (ANIC)."
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Acrapex albicostata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24219_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Acrapex exsangius,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24232_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Acronicta dinawa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24244_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Acronicta psorallina,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24256_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Aedia arctipennis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24268_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Aedia leucomelas,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24280_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Aedia olivescens,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24292_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Aedia sericea,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24304_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Ancara plaesiosema,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24316_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Athetis maculatra,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24328_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Athetis reclusa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24340_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Athetis striolata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24352_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Athetis tenuis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24364_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Athetis thoracica,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24376_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Aucha vesta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24388_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Bagada turpisoides,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24400_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Barybela chionostigma,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24412_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Bathytricha aethalion,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24424_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Agarista agricola,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23580_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Agaristodes feisthamelii,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23605_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Apina callisto,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23620_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Argyrolepidia aequalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23635_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Argyrolepidia thoracophora,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23650_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Burgena varia,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23662_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Coenotoca subaspersa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23677_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Coenotoca unimacula,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23689_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Comocrus behri,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23704_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Cremnophora angasii,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23719_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Cruria donowani,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23737_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Cruria epicharita,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23749_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Cruria kochii,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23761_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Cruria latifascia,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23776_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Cruria synopla,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23788_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Cruria tropica,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23800_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Eutrichopidia latinus,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23812_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Agaristinae  (subfamily),Hecatesia exultans,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23827_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Achaea janata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22668_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Agamana callixeris,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22681_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Agamana pergrata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22693_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Agamana sarmentosa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22705_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Audea irioleuca,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22720_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Brana calopasa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22732_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Brevipecten capitata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22744_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Chrysopera combinans,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22756_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Cyclodes spectans,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22768_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Dasypodia cymatodes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22780_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Donuca orbigera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22792_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Donuca spectabilis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22804_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Dysgonia absentimacula,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22816_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Dysgonia constricta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22828_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Dysgonia frontinus,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22840_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Dysgonia latizona,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22864_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Catocalinae  (subfamily),Dysgonia propyrrha,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22876_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Hadeninae  (subfamily),Brithys crini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22539_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Hadeninae  (subfamily),Dasygaster padockina,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22552_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Hadeninae  (subfamily),Leucania stenographa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22564_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Hadeninae  (subfamily),Metopiora sanguinata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22579_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Hadeninae  (subfamily),Mythimna convecta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22594_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Hadeninae  (subfamily),Mythimna separata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22609_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Hadeninae  (subfamily),Persectania dyscrita,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22624_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Hadeninae  (subfamily),Persectania ewingii,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22636_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Hadeninae  (subfamily),Tiracola plagiata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22648_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Heliothinae  (subfamily),Helicoverpa armigera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22485_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Heliothinae  (subfamily),Helicoverpa assulta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22501_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Heliothinae  (subfamily),Helicoverpa punctigera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22516_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Hypeninae (subfamily),Hypena gypsospila,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25581_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Hypeninae (subfamily),No_genus apoblepta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25594_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Noctuinae  (subfamily),Agrotis emboloma,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22335_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Noctuinae  (subfamily),Agrotis infusa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22351_g2_serialNumber_3.jpeg,missing
-,|Noctuidae|Noctuinae  (subfamily),Agrotis interjectionis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22369_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Noctuinae  (subfamily),Agrotis ipsilon,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22384_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Noctuinae  (subfamily),Agrotis munda,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22399_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Noctuinae  (subfamily),Agrotis poliophaea,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22417_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Noctuinae  (subfamily),Agrotis poliotis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22429_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Noctuinae  (subfamily),Agrotis porphyricollis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22444_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Noctuinae  (subfamily),Agrotis radians,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22462_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Plusiinae  (subfamily),Anadevidia peponis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22130_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Plusiinae  (subfamily),Argyrogramma signata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22144_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Plusiinae  (subfamily),Chrysodeixis acuta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22156_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Plusiinae  (subfamily),Chrysodeixis argentifera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22168_g2_serialNumber_3.jpeg,missing
-,|Noctuidae|Plusiinae  (subfamily),Chrysodeixis eriosoma,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22183_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Plusiinae  (subfamily),Chrysodeixis illuminata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22198_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Plusiinae  (subfamily),Chrysodeixis subsidens,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22210_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Plusiinae  (subfamily),Ctenoplusia albostriata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22231_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Plusiinae  (subfamily),Ctenoplusia chillagoes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22243_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Plusiinae  (subfamily),Ctenoplusia furcifera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22255_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Plusiinae  (subfamily),Dactyloplusia impulsa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22267_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Plusiinae  (subfamily),Scriptoplusia rubiflabellata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22279_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Plusiinae  (subfamily),Thysanoplusia orichalcea,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22291_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Plusiinae  (subfamily),Trichoplusia lectula,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22303_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Plusiinae  (subfamily),Zonoplusia ochreata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22315_g2_serialNumber_2.jpeg,missing
-,|Noctuidae|Stictopterinae (subfamily),Lophoptera vittigera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25560_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Ariola coelisigna,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25659_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Armactica columbina,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25675_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Austrocarea iocephala,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25687_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Cacyparis brevipennis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25699_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Cacyparis melanolitha,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25711_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Clytophylla artia,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25726_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Earias huegeliana,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25738_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Earias luteolaria,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25750_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Earias vittella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25762_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Eligma orthoxantha,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25777_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Gabala australiata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25789_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Lasiolopha saturata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25801_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Maurilia iconica,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25816_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Paracrama latimargo,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25831_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Pterogonia cardinalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25846_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Vizaga mirabilis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25861_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Chloephorinae  (subfamily),Westermannia argentata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25879_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Nolinae  (subfamily),Uraba lugens,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25965_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Sarrothripinae  (subfamily),Blenina donans,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25622_g2_serialNumber_2.jpeg,missing
-,|Nolidae|Sarrothripinae  (subfamily),Iscadia inexacta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25639_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Allata indistincta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25997_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Antimima corystes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26014_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Antimima cryptica,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26029_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Antithemerastis acrobela,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26044_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Archigargetta amydra,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26059_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Cascera bella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26104_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Cascera muscosa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26119_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Cerura australis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26134_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Cerura multipunctata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26149_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Clostera rubida,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26164_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Commonia hesychima,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26179_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Destolmia lineata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26194_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Ecnomodes sagittaria,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26209_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Gallaba ochropepla,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26224_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Gargettiana punctatissima,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26239_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Hobartina eusciera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26254_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Hylaeora capucina,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26089_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Notodontinae,Hylaeora caustopis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26269_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Aglaosoma periblepta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26634_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Aglaosoma variegata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26647_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Axiocleta perisema,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26659_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Cynosarga ornata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26674_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Epicoma argentata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26689_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Epicoma asbolina,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26704_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Epicoma barnardi,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26719_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Epicoma barytima,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26734_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Epicoma contristis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26749_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Epicoma derbyana,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26764_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Epicoma dispar,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26779_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Epicoma melanospila,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26809_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Epicoma melanosticta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26794_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Epicoma phoenura,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26824_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Epicoma pontificalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26839_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Epicoma protrahens,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26854_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Epicoma tristis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26869_g2_serialNumber_2.jpeg,missing
-,|Notodontidae|Thaumetopoeinae,Epicoma zelotes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26884_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Autostichinae subfamily,Procometis bisulcata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27153_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Autostichinae subfamily,Procometis lipara,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27169_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Autostichinae subfamily,Procometis phloeodes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27184_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Acanthodela erythrosema,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27211_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Ageletha crocoxantha,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27223_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Ageletha elaeodes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27235_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Ageletha hemiteles,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27247_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Ancistromorpha phryganophanes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27262_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Anthocoma euterpnes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27274_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Brachynemata aphanes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27286_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Brachynemata cingulata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27298_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Brachynemata diantha,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27309_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Brachynemata leucanepsia,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27320_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Brachynemata mimopa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27332_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Brachynemata ochrolitha,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27343_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Brachynemata restricta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27357_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Callimima daedalma,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27369_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Callimima lophoptera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27381_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Coeranica eritima,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27393_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Oecophorinae  (subfamily),Coeranica isabella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27405_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Stathmopodinae subfamily,Coracistis erythrocosma,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26999_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Stathmopodinae subfamily,Dolophrosynella balteata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27016_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Stathmopodinae subfamily,Mylocera tenebrifera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27028_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Stathmopodinae subfamily,Pseudaegeria hyalina,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27040_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Stathmopodinae subfamily,Pseudaegeria phlogina,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27052_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Stathmopodinae subfamily,Pseudaegeria polytita,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27067_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Stathmopodinae subfamily,Pseudaegeria squamicornis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27082_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Stathmopodinae subfamily,Snellenia capnora,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27106_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Stathmopodinae subfamily,Snellenia hylaea,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27094_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Stathmopodinae subfamily,Snellenia lineata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27118_g2_serialNumber_2.jpeg,missing
-,|Oecophoridae|Stathmopodinae subfamily,Snellenia miltocrossa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27133_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Acrapex albicostata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24219_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Acrapex exsangius,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24232_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Acronicta dinawa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24244_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Acronicta psorallina,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24256_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Aedia arctipennis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24268_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Aedia leucomelas,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24280_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Aedia olivescens,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24292_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Aedia sericea,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24304_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Ancara plaesiosema,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24316_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Athetis maculatra,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24328_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Athetis reclusa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24340_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Athetis striolata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24352_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Athetis tenuis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24364_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Athetis thoracica,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24376_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Aucha vesta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24388_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Bagada turpisoides,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24400_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Barybela chionostigma,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24412_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Acronictinae_Amphipyrinae  (subfamily),Bathytricha aethalion,missing,main.php_g2_view_core.DownloadItem_g2_itemId_24424_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Agarista agricola,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23580_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Agaristodes feisthamelii,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23605_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Apina callisto,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23620_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Argyrolepidia aequalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23635_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Argyrolepidia thoracophora,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23650_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Burgena varia,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23662_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Coenotoca subaspersa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23677_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Coenotoca unimacula,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23689_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Comocrus behri,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23704_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Cremnophora angasii,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23719_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Cruria donowani,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23737_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Cruria epicharita,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23749_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Cruria kochii,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23761_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Cruria latifascia,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23776_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Cruria synopla,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23788_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Cruria tropica,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23800_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Eutrichopidia latinus,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23812_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Agaristinae  (subfamily),Hecatesia exultans,missing,main.php_g2_view_core.DownloadItem_g2_itemId_23827_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Achaea janata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22668_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Agamana callixeris,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22681_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Agamana pergrata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22693_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Agamana sarmentosa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22705_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Audea irioleuca,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22720_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Brana calopasa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22732_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Brevipecten capitata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22744_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Chrysopera combinans,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22756_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Cyclodes spectans,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22768_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Dasypodia cymatodes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22780_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Donuca orbigera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22792_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Donuca spectabilis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22804_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Dysgonia absentimacula,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22816_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Dysgonia constricta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22828_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Dysgonia frontinus,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22840_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Dysgonia latizona,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22864_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Catocalinae  (subfamily),Dysgonia propyrrha,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22876_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Hadeninae  (subfamily),Brithys crini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22539_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Hadeninae  (subfamily),Dasygaster padockina,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22552_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Hadeninae  (subfamily),Leucania stenographa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22564_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Hadeninae  (subfamily),Metopiora sanguinata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22579_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Hadeninae  (subfamily),Mythimna convecta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22594_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Hadeninae  (subfamily),Mythimna separata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22609_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Hadeninae  (subfamily),Persectania dyscrita,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22624_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Hadeninae  (subfamily),Persectania ewingii,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22636_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Hadeninae  (subfamily),Tiracola plagiata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22648_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Heliothinae  (subfamily),Helicoverpa armigera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22485_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Heliothinae  (subfamily),Helicoverpa assulta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22501_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Heliothinae  (subfamily),Helicoverpa punctigera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22516_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Hypeninae (subfamily),Hypena gypsospila,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25581_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Hypeninae (subfamily),No_genus apoblepta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25594_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Noctuinae  (subfamily),Agrotis emboloma,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22335_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Noctuinae  (subfamily),Agrotis infusa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22351_g2_serialNumber_3.jpeg,missing
+"",|Noctuidae|Noctuinae  (subfamily),Agrotis interjectionis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22369_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Noctuinae  (subfamily),Agrotis ipsilon,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22384_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Noctuinae  (subfamily),Agrotis munda,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22399_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Noctuinae  (subfamily),Agrotis poliophaea,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22417_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Noctuinae  (subfamily),Agrotis poliotis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22429_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Noctuinae  (subfamily),Agrotis porphyricollis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22444_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Noctuinae  (subfamily),Agrotis radians,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22462_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Plusiinae  (subfamily),Anadevidia peponis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22130_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Plusiinae  (subfamily),Argyrogramma signata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22144_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Plusiinae  (subfamily),Chrysodeixis acuta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22156_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Plusiinae  (subfamily),Chrysodeixis argentifera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22168_g2_serialNumber_3.jpeg,missing
+"",|Noctuidae|Plusiinae  (subfamily),Chrysodeixis eriosoma,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22183_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Plusiinae  (subfamily),Chrysodeixis illuminata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22198_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Plusiinae  (subfamily),Chrysodeixis subsidens,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22210_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Plusiinae  (subfamily),Ctenoplusia albostriata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22231_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Plusiinae  (subfamily),Ctenoplusia chillagoes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22243_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Plusiinae  (subfamily),Ctenoplusia furcifera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22255_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Plusiinae  (subfamily),Dactyloplusia impulsa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22267_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Plusiinae  (subfamily),Scriptoplusia rubiflabellata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22279_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Plusiinae  (subfamily),Thysanoplusia orichalcea,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22291_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Plusiinae  (subfamily),Trichoplusia lectula,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22303_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Plusiinae  (subfamily),Zonoplusia ochreata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_22315_g2_serialNumber_2.jpeg,missing
+"",|Noctuidae|Stictopterinae (subfamily),Lophoptera vittigera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25560_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Ariola coelisigna,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25659_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Armactica columbina,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25675_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Austrocarea iocephala,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25687_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Cacyparis brevipennis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25699_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Cacyparis melanolitha,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25711_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Clytophylla artia,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25726_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Earias huegeliana,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25738_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Earias luteolaria,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25750_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Earias vittella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25762_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Eligma orthoxantha,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25777_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Gabala australiata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25789_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Lasiolopha saturata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25801_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Maurilia iconica,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25816_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Paracrama latimargo,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25831_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Pterogonia cardinalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25846_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Vizaga mirabilis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25861_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Chloephorinae  (subfamily),Westermannia argentata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25879_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Nolinae  (subfamily),Uraba lugens,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25965_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Sarrothripinae  (subfamily),Blenina donans,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25622_g2_serialNumber_2.jpeg,missing
+"",|Nolidae|Sarrothripinae  (subfamily),Iscadia inexacta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25639_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Allata indistincta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_25997_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Antimima corystes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26014_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Antimima cryptica,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26029_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Antithemerastis acrobela,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26044_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Archigargetta amydra,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26059_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Cascera bella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26104_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Cascera muscosa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26119_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Cerura australis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26134_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Cerura multipunctata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26149_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Clostera rubida,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26164_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Commonia hesychima,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26179_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Destolmia lineata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26194_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Ecnomodes sagittaria,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26209_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Gallaba ochropepla,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26224_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Gargettiana punctatissima,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26239_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Hobartina eusciera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26254_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Hylaeora capucina,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26089_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Notodontinae,Hylaeora caustopis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26269_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Aglaosoma periblepta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26634_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Aglaosoma variegata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26647_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Axiocleta perisema,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26659_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Cynosarga ornata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26674_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Epicoma argentata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26689_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Epicoma asbolina,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26704_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Epicoma barnardi,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26719_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Epicoma barytima,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26734_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Epicoma contristis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26749_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Epicoma derbyana,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26764_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Epicoma dispar,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26779_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Epicoma melanospila,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26809_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Epicoma melanosticta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26794_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Epicoma phoenura,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26824_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Epicoma pontificalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26839_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Epicoma protrahens,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26854_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Epicoma tristis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26869_g2_serialNumber_2.jpeg,missing
+"",|Notodontidae|Thaumetopoeinae,Epicoma zelotes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26884_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Autostichinae subfamily,Procometis bisulcata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27153_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Autostichinae subfamily,Procometis lipara,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27169_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Autostichinae subfamily,Procometis phloeodes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27184_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Acanthodela erythrosema,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27211_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Ageletha crocoxantha,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27223_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Ageletha elaeodes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27235_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Ageletha hemiteles,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27247_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Ancistromorpha phryganophanes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27262_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Anthocoma euterpnes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27274_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Brachynemata aphanes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27286_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Brachynemata cingulata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27298_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Brachynemata diantha,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27309_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Brachynemata leucanepsia,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27320_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Brachynemata mimopa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27332_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Brachynemata ochrolitha,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27343_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Brachynemata restricta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27357_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Callimima daedalma,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27369_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Callimima lophoptera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27381_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Coeranica eritima,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27393_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Oecophorinae  (subfamily),Coeranica isabella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27405_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Stathmopodinae subfamily,Coracistis erythrocosma,missing,main.php_g2_view_core.DownloadItem_g2_itemId_26999_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Stathmopodinae subfamily,Dolophrosynella balteata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27016_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Stathmopodinae subfamily,Mylocera tenebrifera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27028_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Stathmopodinae subfamily,Pseudaegeria hyalina,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27040_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Stathmopodinae subfamily,Pseudaegeria phlogina,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27052_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Stathmopodinae subfamily,Pseudaegeria polytita,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27067_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Stathmopodinae subfamily,Pseudaegeria squamicornis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27082_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Stathmopodinae subfamily,Snellenia capnora,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27106_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Stathmopodinae subfamily,Snellenia hylaea,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27094_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Stathmopodinae subfamily,Snellenia lineata,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27118_g2_serialNumber_2.jpeg,missing
+"",|Oecophoridae|Stathmopodinae subfamily,Snellenia miltocrossa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_27133_g2_serialNumber_2.jpeg,missing
 29557,|Oenosandridae|Diceratucha xenopis,Diceratucha xenopis,diceratucha_xenopis_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_29557_g2_serialNumber_2.jpeg,"<i>Diceratucha xenopis</i> (Lower, 1902) (Oenosandridae), Female - NSW, 2 miles W Balranald, 6. May. 1968, I.F.B. Common M.S. Upton <i>leg</i>. (ANIC)."
 29561,|Oenosandridae|Diceratucha xenopis,Diceratucha xenopis,diceratucha_xenopis_02.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_29561_g2_serialNumber_2.jpeg,"<i>Diceratucha xenopis</i> (Lower, 1902) (Oenosandridae), Male - NSW, 1 km NNW of Goolgowi Lat.33'58'' Long.145'42'', 9. May. 1976, I.F.B. Common E.D. Edwards <i>leg</i>. (ANIC)."
 29572,|Oenosandridae|Discophlebia blosyrodes,Discophlebia blosyrodes,discophlebia_blosyrodes_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_29572_g2_serialNumber_2.jpeg,"<i>Discophlebia blosyrodes</i> Turner, 1903 (Oenosandridae), Female - QLD, Townsville, 20. Oct. 1902, F.P. Dodd <i>leg</i>. (ANIC)."
@@ -1035,47 +1035,47 @@ itemId,family,scientificName,fileName,imageThumbnailUrl,description
 30115,|Psychidae|Unplacedtogenus pantosemna,Unplacedtogenus pantosemna,unplacedtogenus_pantosemna_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_30115_g2_serialNumber_2.jpeg,"<i>Unplacedtogenus pantosemna</i> Turner, 1931 (Psychidae), Male - WA, 15 km NW of Walpole, 15. Nov. 1958, I.F.B. Common <i>leg</i>. (ANIC)."
 30127,|Psychidae|Unplacedtogenus persimilis,Unplacedtogenus persimilis,unplacedtogenus_persimilis_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_30127_g2_serialNumber_2.jpeg,"<i>Unplacedtogenus persimilis</i> Turner, 1947 (Psychidae), Male - QLD, 11 km ENE of Mt. Tozer Lat.12'43'' Long. 143'18'', 9. Jul. 1986, J.C. Cardale <i>leg</i>. (ANIC)."
 30139,|Psychidae|Unplacedtogenus photidias,Unplacedtogenus photidias,unplacedtogenus_photidias_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_30139_g2_serialNumber_2.jpeg,"<i>Unplacedtogenus photidias</i> Meyrick &amp; Lower, 1907 (Psychidae), Male - QLD, Iron Range, 18. Oct. 1976, E. Holm <i>leg</i>. (ANIC)."
-,|Pyralidae|Chrysauginae (subfamily),Anassodes mesozonalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_31093_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Chrysauginae (subfamily),Anemosa exanthes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_31080_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Chrysauginae (subfamily),Hednotodes callichroa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_31108_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Chrysauginae (subfamily),Polyterpnes polyrrhoda,missing,main.php_g2_view_core.DownloadItem_g2_itemId_31120_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Epipaschiinae (subfamily),Titanoceros thermoptera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_31059_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Galleriinae  (subfamily),Achroia grisella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30181_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Galleriinae  (subfamily),Corcyra cephalonica,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30198_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Galleriinae  (subfamily),Galleria mellonella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30213_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Galleriinae  (subfamily),Meyriccia latro,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30228_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Phycitinae  (subfamily),Apomyelois ceratoniae,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30248_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Phycitinae  (subfamily),Assara seminivale,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30261_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Phycitinae  (subfamily),Cadra cautella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30273_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Phycitinae  (subfamily),Cadra figulilella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30288_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Phycitinae  (subfamily),Cryptoblabes hemigypsa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30303_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Phycitinae  (subfamily),Ephestia elutella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30314_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Phycitinae  (subfamily),Ephestia kuehniella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30329_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Phycitinae  (subfamily),Etiella chrysoporella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30344_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Phycitinae  (subfamily),Etiella grisea,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30359_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Phycitinae  (subfamily),Etiella hobsoni,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30374_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Phycitinae  (subfamily),Etiella scitivittalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30389_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Phycitinae  (subfamily),Etiella walsinghamella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30404_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Phycitinae  (subfamily),Etiella zinckenella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30416_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Phycitinae  (subfamily),Plodia interpunctella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30431_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Aglossa caprealis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30451_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Aglossa pinguinalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30464_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Amphiderita pyrospila,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30476_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Arescoptera idiotypa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30488_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Arippara disticha,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30500_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Cardamyla carinentalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30512_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Cardamyla didymalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30524_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Cardamyla eurycroca,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30536_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Cardamyla hercophora,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30548_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Endotricha approximalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30560_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Endotricha chionocosma,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30572_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Endotricha dispergens,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30584_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Endotricha euphiles,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30596_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Endotricha hemicausta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30608_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Endotricha ignealis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30620_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Endotricha melanchroa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30632_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Endotricha mesenterialis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30644_g2_serialNumber_2.jpeg,missing
-,|Pyralidae|Pyralinae  (subfamily),Endotricha psammitis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30656_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Chrysauginae (subfamily),Anassodes mesozonalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_31093_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Chrysauginae (subfamily),Anemosa exanthes,missing,main.php_g2_view_core.DownloadItem_g2_itemId_31080_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Chrysauginae (subfamily),Hednotodes callichroa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_31108_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Chrysauginae (subfamily),Polyterpnes polyrrhoda,missing,main.php_g2_view_core.DownloadItem_g2_itemId_31120_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Epipaschiinae (subfamily),Titanoceros thermoptera,missing,main.php_g2_view_core.DownloadItem_g2_itemId_31059_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Galleriinae  (subfamily),Achroia grisella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30181_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Galleriinae  (subfamily),Corcyra cephalonica,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30198_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Galleriinae  (subfamily),Galleria mellonella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30213_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Galleriinae  (subfamily),Meyriccia latro,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30228_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Phycitinae  (subfamily),Apomyelois ceratoniae,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30248_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Phycitinae  (subfamily),Assara seminivale,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30261_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Phycitinae  (subfamily),Cadra cautella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30273_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Phycitinae  (subfamily),Cadra figulilella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30288_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Phycitinae  (subfamily),Cryptoblabes hemigypsa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30303_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Phycitinae  (subfamily),Ephestia elutella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30314_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Phycitinae  (subfamily),Ephestia kuehniella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30329_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Phycitinae  (subfamily),Etiella chrysoporella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30344_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Phycitinae  (subfamily),Etiella grisea,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30359_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Phycitinae  (subfamily),Etiella hobsoni,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30374_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Phycitinae  (subfamily),Etiella scitivittalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30389_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Phycitinae  (subfamily),Etiella walsinghamella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30404_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Phycitinae  (subfamily),Etiella zinckenella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30416_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Phycitinae  (subfamily),Plodia interpunctella,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30431_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Aglossa caprealis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30451_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Aglossa pinguinalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30464_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Amphiderita pyrospila,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30476_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Arescoptera idiotypa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30488_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Arippara disticha,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30500_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Cardamyla carinentalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30512_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Cardamyla didymalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30524_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Cardamyla eurycroca,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30536_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Cardamyla hercophora,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30548_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Endotricha approximalis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30560_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Endotricha chionocosma,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30572_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Endotricha dispergens,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30584_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Endotricha euphiles,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30596_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Endotricha hemicausta,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30608_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Endotricha ignealis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30620_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Endotricha melanchroa,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30632_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Endotricha mesenterialis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30644_g2_serialNumber_2.jpeg,missing
+"",|Pyralidae|Pyralinae  (subfamily),Endotricha psammitis,missing,main.php_g2_view_core.DownloadItem_g2_itemId_30656_g2_serialNumber_2.jpeg,missing
 31138,|Roeslerstammiidae|Amphithera hemerina,Amphithera hemerina,amphithera_hemerina_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_31138_g2_serialNumber_2.jpeg,"<i>Amphithera hemerina</i> Turner ,1923 (Roeslerstammiidae), Male - NSW, Whian Whian State Forest, 21. Nov. 1976, I.F.B. Common E.D. Edwards <i>leg</i>. (ANIC)."
 31150,|Roeslerstammiidae|Amphithera heteroleuca,Amphithera heteroleuca,amphithera_heteroleuca_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_31150_g2_serialNumber_2.jpeg,"<i>Amphithera heteroleuca</i> (Turner, 1900) (Roeslerstammiidae), Male - Qld, Lamington National Park, 7. Nov. 1961, I.F.B. Common M.S. Upton <i>leg</i>. (ANIC)."
 31162,|Roeslerstammiidae|Amphithera heteromorpha,Amphithera heteromorpha,amphithera_heteromorpha_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_31162_g2_serialNumber_2.jpeg,"<i>Amphithera heteromorpha</i> Meyrick, 1893 (Roeslerstammiidae), Male - NSW, Clyde Mountain, 17. Oct. 1962, I.F.B. Common M.S. Upton <i>leg</i>. (ANIC)."
@@ -1230,23 +1230,23 @@ itemId,family,scientificName,fileName,imageThumbnailUrl,description
 33145,|Tineidae|Timaea bivittatella,Timaea bivittatella,timaea_bivittatella_02.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_33145_g2_serialNumber_2.jpeg,"<i>Timaea bivittatella</i> Walker, 1863 (Tineidae: Myrmecozelinae), Male - NSW, 20 miles S of Putty, 14. Nov. 1961, I.F.B. Common <i>leg</i>. (ANIC)."
 33156,|Tineidae|Tinea bisselliella,Tinea bisselliella,tinea_bisselliella_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_33156_g2_serialNumber_2.jpeg,"<i>Tinea bisselliella</i> (Hummel, 1823) (Tineidae: Tineinae), Female - ACT, Canberra, 14. Sep. 1961, I.F.B. Common <i>leg</i>. (ANIC). This is a pest species This is a pest species; wool; wool fibres"
 33168,|Tineidae|Tinea dubiella,Tinea dubiella,tinea_dubiella_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_33168_g2_serialNumber_2.jpeg,"<i>Tinea dubiella</i> Stainton, 1859 (Tineidae: Tineidae), Female - NSW, Menangle Park Lat. 34' 07''S Long. 150' 44''E, 21. Feb. 1989, E.D. Edwards <i>leg</i>. (ANIC). This is a pest species This is a pest species; wool; accidental introduction"
-,|Tortricidae|Chlidanotinae,Chlidanotini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_8533_g2_serialNumber_3.jpeg,missing
-,|Tortricidae|Chlidanotinae,Hilarographini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_8555_g2_serialNumber_3.jpeg,missing
-,|Tortricidae|Chlidanotinae,Polyorthini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_8560_g2_serialNumber_3.jpeg,missing
-,|Tortricidae|Olethreutinae,Bactrini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_4737_g2_serialNumber_3.jpeg,missing
-,|Tortricidae|Olethreutinae,Enarmoniini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_4795_g2_serialNumber_3.jpeg,missing
-,|Tortricidae|Olethreutinae,Eucosmini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_5072_g2_serialNumber_3.jpeg,missing
-,|Tortricidae|Olethreutinae,Grapholitini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_5517_g2_serialNumber_3.jpeg,missing
-,|Tortricidae|Olethreutinae,Microcorsini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_5690_g2_serialNumber_3.jpeg,missing
-,|Tortricidae|Olethreutinae,Olethreutini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_5727_g2_serialNumber_3.jpeg,missing
-,|Tortricidae|Tortricinae,Archipini sensu latu,missing,main.php_g2_view_core.DownloadItem_g2_itemId_6102_g2_serialNumber_3.jpeg,missing
-,|Tortricidae|Tortricinae,Archipini sensu strictu,missing,main.php_g2_view_core.DownloadItem_g2_itemId_6464_g2_serialNumber_3.jpeg,missing
-,|Tortricidae|Tortricinae,Cnephasiini sensu latu,missing,main.php_g2_view_core.DownloadItem_g2_itemId_7273_g2_serialNumber_3.jpeg,missing
-,|Tortricidae|Tortricinae,Cochylini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_7466_g2_serialNumber_3.jpeg,missing
-,|Tortricidae|Tortricinae,Epitymbiini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_7475_g2_serialNumber_3.jpeg,missing
-,|Tortricidae|Tortricinae,Phricanthini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_7888_g2_serialNumber_3.jpeg,missing
-,|Tortricidae|Tortricinae,Schoenotenini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_7937_g2_serialNumber_3.jpeg,missing
-,|Tortricidae|Tortricinae,Tortricini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_8030_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Chlidanotinae,Chlidanotini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_8533_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Chlidanotinae,Hilarographini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_8555_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Chlidanotinae,Polyorthini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_8560_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Olethreutinae,Bactrini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_4737_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Olethreutinae,Enarmoniini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_4795_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Olethreutinae,Eucosmini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_5072_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Olethreutinae,Grapholitini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_5517_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Olethreutinae,Microcorsini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_5690_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Olethreutinae,Olethreutini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_5727_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Tortricinae,Archipini sensu latu,missing,main.php_g2_view_core.DownloadItem_g2_itemId_6102_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Tortricinae,Archipini sensu strictu,missing,main.php_g2_view_core.DownloadItem_g2_itemId_6464_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Tortricinae,Cnephasiini sensu latu,missing,main.php_g2_view_core.DownloadItem_g2_itemId_7273_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Tortricinae,Cochylini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_7466_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Tortricinae,Epitymbiini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_7475_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Tortricinae,Phricanthini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_7888_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Tortricinae,Schoenotenini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_7937_g2_serialNumber_3.jpeg,missing
+"",|Tortricidae|Tortricinae,Tortricini,missing,main.php_g2_view_core.DownloadItem_g2_itemId_8030_g2_serialNumber_3.jpeg,missing
 33274,|Uraniidae|Alcides metaurus,Alcides metaurus,alcides_metaurus_01.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_33274_g2_serialNumber_2.jpeg,"<i>Alcides metaurus</i> (Hopffer, 1856) (Uraniidae: Uraniinae), Female - QLD, Airlie Beach, 1. Jun. 1974, A.W. Smith <i>leg</i>. (ANIC)."
 33279,|Uraniidae|Alcides metaurus,Alcides metaurus,alcides_metaurus_02.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_33279_g2_serialNumber_2.jpeg,"<i>Alcides metaurus</i> (Hopffer, 1856) (Uraniidae: Uraniinae), Male - QLD, Etty Bay near Innisfail, 21.July.1992, L.S. Willan <i>leg</i>. (LWC)."
 33282,|Uraniidae|Alcides metaurus,Alcides metaurus,alcides_metaurus_03.jpg,main.php_g2_view_core.DownloadItem_g2_itemId_33282_g2_serialNumber_2.jpeg,"<i>Alcides metaurus</i> (Hopffer, 1856) (Uraniidae: Uraniinae), Male - QLD, Etty Bay near Innisfail."

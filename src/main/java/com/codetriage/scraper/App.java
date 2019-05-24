@@ -52,6 +52,8 @@ public class App {
     /**
      * Recursive method to process a JSoup Document
      *
+     * TODO: navigate the pagination for album pages
+     *
      * @param doc
      * @param csvPrinter
      * @param parent
@@ -62,6 +64,7 @@ public class App {
         // one of the following selector will be populated, depending on the page type (album or items/photos)
         Elements albums = doc.select(".giAlbumCell div"); // album page
         Elements items = doc.select(".giItemCell");       // items page
+        Elements nextLink = doc.select(".next-and-last .next"); // next page
 
         if (albums.size() > 0) {
             // we're on a page with sub-albums (e.g. family or subfamily) so need to go one level deeper
@@ -86,7 +89,20 @@ public class App {
                 } else {
                     //System.out.println("No album link or title found - " + albumTitle + SEP + albumUrl);
                 }
+            }
 
+            // check if there are more pages of sub-albums in this album (pagination links)
+            if (nextLink.size() > 0) {
+                String nextPageLink = nextLink.get(0).attr("href");
+                System.out.println(" > next page found " + nextPageLink);
+                Document subAlbumDoc = Jsoup.connect(AMO_BASE_URL + nextPageLink).timeout(10000).validateTLSCertificates(false).get();
+                String nextPageTitle = subAlbumDoc.title();
+
+                if (!StringUtils.contains(nextPageTitle, "Australian Moths Online")) {
+                    processAlbumDoc(subAlbumDoc, csvPrinter, parent, nextPageTitle);
+                } else {
+                    System.out.println("Requested (next) page (" + AMO_BASE_URL + nextPageLink + ") has redirected to AMO home");
+                }
             }
         } else if (items.size() > 0) {
             // we're on a page with album items (photos) on it
